@@ -29,18 +29,18 @@ li {
   /* heightの指定を消してください */
   
   /* 上下のpaddingを100px、左右のpaddingを80pxにしてください */
-  padding:100px 80px;
+  padding:80px 60px;
   
 }
 
 /* copy-containerの中のh1のfont-sizeを指定してください */
 .copy-container h1 {
-  font-size:80px;
+  font-size:65px;
 }
 
 /* copy-containerの中のh2のfont-sizeを指定してください */
 .copy-container h2 {
-  font-size:40px;
+  font-size:30px;
 }
 
 /* copy-containerの中のspanの色を指定してください */
@@ -51,13 +51,13 @@ li {
 .footer {
   background-color:#B8860B;
   color: #fff;
-  height: 120px;
+  height: 100px;
   padding: 40px;
 }
 
 .footer-logo {
   float: left;
-  font-size: 32px;
+  font-size: 25px;
 }
 
 .footer-list {
