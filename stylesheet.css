@@ -7,7 +7,7 @@ li {
 }
 
 .header {
-  background-color:gold;
+  background-color:#B8860B;
   color: #fff;
   height: 90px;
 }
@@ -35,21 +35,21 @@ li {
 
 /* copy-containerの中のh1のfont-sizeを指定してください */
 .copy-container h1 {
-  font-size:140px;
+  font-size:80px;
 }
 
 /* copy-containerの中のh2のfont-sizeを指定してください */
 .copy-container h2 {
-  font-size:60px;
+  font-size:40px;
 }
 
 /* copy-containerの中のspanの色を指定してください */
 .copy-container span{
-  color:blue;
+  color:#B8860B;
 }
 
 .footer {
-  background-color:gold;
+  background-color:#B8860B;
   color: #fff;
   height: 120px;
   padding: 40px;
