@@ -18,10 +18,32 @@ li {
   padding: 20px 40px;
 }
 
-/*リンクのフォントを白にし、アンダーラインを消すCSS*/
+/*リンクをボールドにしアンダーラインを消すCSS*/
 a {
-  color:#fff;
   text-decoration: none;
+  font-weight:bold;
+  }
+
+/*未アクセスリンク（白）*/
+a:link {
+  color:#fff;
+  }
+
+/*既アクセスリンク（ピンク）*/
+a:visited {
+  color:#FF0099;
+  }
+
+/*リンクマウスオーバー状態（シルバー、アンダーライン）*/
+a:hover {
+  color:#C0C0C0;
+   font-weight:bold;
+  text-decoration:underline;
+  }
+
+/*リンククリック中（緑色）*/
+a:active {
+  color:#33cc00;
   }
 
 .header-list li {
