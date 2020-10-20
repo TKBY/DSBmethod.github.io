@@ -18,9 +18,14 @@ li {
   padding: 20px 40px;
 }
 
+/*リンクのフォントを白にし、アンダーラインを消すCSS*/
+a {
+  color:#fff;
+  text-decoration: none;
+  }
+
 .header-list li {
   float: left;
-  color: #fff;
   padding: 33px 20px;
 }
 
