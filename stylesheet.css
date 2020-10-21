@@ -5,10 +5,7 @@ body {
 li {
   list-style: none;
 }
-/*背景がホワイトの場所に位置するheading-linkクラスのリンクのカラーをゴールドに指定*/
-.heading-link {
-  color:#B8860B;
-  }
+
 
 .header {
   background-color:#B8860B;
