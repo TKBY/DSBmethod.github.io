@@ -28,9 +28,9 @@ a {
   font-weight:bold;
   }
 
-/*未アクセスリンク（白）*/
+/*未アクセスリンク（シルバー）*/
 a:link {
-  color:#FFBEDA;
+  color:#C0C0C0;
   }
 
 /*既アクセスリンク（ピンク）*/
@@ -38,9 +38,9 @@ a:visited {
   color:#FFBEDA;
   }
 
-/*リンクマウスオーバー状態（シルバー、アンダーライン）*/
+/*リンクマウスオーバー状態（ピンク、アンダーライン）*/
 a:hover {
-  color:#C0C0C0;
+  color:#FFBEDA;
    font-weight:bold;
   text-decoration:underline;
   }
