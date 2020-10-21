@@ -5,6 +5,9 @@ body {
 li {
   list-style: none;
 }
+.heading-link {
+  color:#B8860B;
+  }
 
 .header {
   background-color:#B8860B;
